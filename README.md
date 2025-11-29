@@ -69,10 +69,4 @@ Once executed, the UI launches automatically at:
 
 You now have a fully operational local AI assistant using Gemma3:4B — fast, private, and cost-free.
 
-If you want, I can prepare the next professional extension README including:
 
-Enhancement	Result
-RAG with PDF/Text Indexing	Knowledge-based QA
-Vector DB Integration (Chroma/FAISS)	True semantic retrieval
-Chat Memory + Context Retention	Continuous conversations
-Multi-Model UI (Gemma/Mistral/Llama2)	Switch dynamically
